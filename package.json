@@ -1,0 +1,22 @@
+{
+  "name": "yn12306",
+  "version": "1.0.0",
+  "description": "如何模拟发请求",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenyue1118/yn12306.git"
+  },
+  "keywords": [
+    "nidejs"
+  ],
+  "author": "chen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chenyue1118/yn12306/issues"
+  },
+  "homepage": "https://github.com/chenyue1118/yn12306#readme"
+}
