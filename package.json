@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/chenyue1118/yn12306/issues"
   },
-  "homepage": "https://github.com/chenyue1118/yn12306#readme"
+  "homepage": "https://github.com/chenyue1118/yn12306#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
